@@ -1,0 +1,21 @@
+[
+  {
+    "id": 5,
+    "name": "Classic Margherita Pizza",
+    "description": "A delicious and simple Margherita pizza with fresh ingredients.",
+    "imageUrls": "https://example.com/images/margherita-pizza.jpg",
+    "videoUrls": "https://example.com/videos/margherita-pizza.mp4"
+  },
+  {
+    "name": "Classic Margherita Pizza",
+    "description": "A delicious and simple Margherita pizza with fresh ingredients.",
+    "imageUrls": "https://example.com/images/margherita-pizza.jpg",
+    "videoUrls": "https://example.com/videos/margherita-pizza.mp4"
+  },
+  {
+    "image": "/src/assets/images/chickenNoodle.jpg",
+    "category": "Mexican",
+    "name": "Ranch Chicken Tacos",
+    "ratings": 174
+  }
+]

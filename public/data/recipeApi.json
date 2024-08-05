@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Beef Tacos",
+    "description": "Flavorful beef tacos with a variety of toppings.",
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "quantity": "500g"
+      },
+      {
+        "name": "Taco Seasoning",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Tortillas",
+        "quantity": "8"
+      },
+      {
+        "name": "Lettuce",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1"
+      },
+      {
+        "name": "Cheddar Cheese",
+        "quantity": "100g"
+      },
+      {
+        "name": "Sour Cream",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "Salsa",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Cook the ground beef in a pan over medium heat until browned."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Add taco seasoning and a little water, simmer for 5 minutes."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Warm the tortillas in a pan or microwave."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Assemble the tacos by adding beef, lettuce, tomato, cheese, sour cream, and salsa to each tortilla."
+      }
+    ],
+    "nutritionalInfo": {
+      "calories": 450,
+      "fat": 25,
+      "carbohydrates": 30,
+      "protein": 20,
+      "sugar": 5,
+      "fiber": 4,
+      "sodium": 700
+    },
+    "reviews": [],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Appetizers"
+      },
+      {
+        "id": 2,
+        "name": "Main Courses"
+      },
+      {
+        "id": 3,
+        "name": "Desserts"
+      }
+    ],
+    "cuisines": [
+      {
+        "id": 2,
+        "name": "Mexican"
+      },
+      {
+        "id": 3,
+        "name": "Chinese"
+      }
+    ],
+    "user": {
+      "id": "auth0|669ef66368b02e4d51b236ba",
+      "username": "cpirra4",
+      "email": "cpira.idrizi@gmail.com"
+    }
+  }
+]
